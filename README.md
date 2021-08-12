@@ -39,9 +39,22 @@ Faça uma análise exploratória e busquem conclusões e Ações para o Problema
 ---
 
 - Aula-3
+Automação Web e Busca de Informações com Python
 
+Desafio:
+Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cotação de:
+
+- Dólar
+- Euro
+- Ouro
+
+Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
+
+---
 
 - Aula-4
+
+---
 
 # 🚀 Tecnologias Utilizadas
 
@@ -51,6 +64,8 @@ Faça uma análise exploratória e busquem conclusões e Ações para o Problema
 - pyautogui
 - pyperclip
 - plotly 
+- selenium
+- webdriver
 
 # Sobre
 <h4 align="center"> As aulas foram ministradas pelo Lira da Hashtag sócio Fundador e especialista em Python da Hashtag Treinamentos</h4>
