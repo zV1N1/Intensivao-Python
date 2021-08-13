@@ -50,9 +50,14 @@ Trabalhamos em uma importadora e o preço dos nossos produtos é vinculado a cot
 
 Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e saber quanto devemos cobrar pelos nossos produtos, considerando uma margem de contribuição que temos na nossa base de dados.
 
+Automatizem essa atividade utilizado python.
+
 ---
 
 - Aula-4
+
+Desafio:
+nosso desafio é conseguir prever as vendas que vamos ter em determinado período com base nos gastos em anúncios nas 3 grandes redes que a empresa Hashtag investe: TV, Jornal e Rádio.
 
 ---
 
@@ -66,6 +71,9 @@ Precisamos pegar na internet, de forma automática, a cotação desses 3 itens e
 - plotly 
 - selenium
 - webdriver
+- sklearn
+- seaborn
+- matplotlib
 
 # Sobre
 <h4 align="center"> As aulas foram ministradas pelo Lira da Hashtag sócio Fundador e especialista em Python da Hashtag Treinamentos</h4>
